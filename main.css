@@ -36,9 +36,6 @@ div {
     display: block;
 }
 
-
-html {
-    color: -internal-root-color;
   
 .author {
     font-family: 'Crimson Text', serif;
@@ -53,3 +50,8 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+.quote {
+    text-transform: uppercase;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.5rem;
+  }
